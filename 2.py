@@ -1,0 +1,6 @@
+a = float(input("První desetinné číslo"))
+b = float(input("druhé desetinné číslo"))
+print(f"součet je {a+b:.2f}")
+print(f"rozdíl je {a-b:.2f}")
+print(f"součin je {a*b:.2f}")
+print(f"podíl je {a/b:.2f}")
